@@ -38,3 +38,8 @@ syntax enable
 filetype on
 filetype plugin on
 filetype indent on
+
+"Changer la touche escape
+" Les ; sont rarement utilises l’un a la suite de l’autre
+:imap ;; <Esc>
+:map ;; <Esc>

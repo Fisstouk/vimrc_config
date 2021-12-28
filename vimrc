@@ -1,4 +1,4 @@
-" VIM Configuration - Vincent Jousse
+" VIM Configuration
 " Annule la compatibilite avec l'ancetre Vi : totalement indispensable
 set nocompatible
 
@@ -33,8 +33,7 @@ set hidden
 
 " Active la coloration syntaxique
 syntax enable
-" Active les comportements specifiques aux types de fichiers comme
-" la syntaxe et l’indentation
+" Active les comportements specifiques aux types de fichiers comme la syntaxe et l’indentation
 filetype on
 filetype plugin on
 filetype indent on
